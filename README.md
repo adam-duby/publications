@@ -1,8 +1,8 @@
 # Publications
 
-Kelsie Edie, Cole McKee, and Adam Duby. “Extending Threat Playbooks for Cyber Threat Intelligence: A Novel Approach for APT Attribution.” In 11th International Symposium on Digital Forensics and Security (ISDFS), pp. 1-6. IEEE, [DOI: 10.1109/ISDFS58141.2023.10131867](https://ieeexplore.ieee.org/document/10131867), 2023.
+- Kelsie Edie, Cole McKee, and Adam Duby. “Extending Threat Playbooks for Cyber Threat Intelligence: A Novel Approach for APT Attribution.” In 11th International Symposium on Digital Forensics and Security (ISDFS), pp. 1-6. IEEE, [DOI: 10.1109/ISDFS58141.2023.10131867](https://ieeexplore.ieee.org/document/10131867), 2023.
 
-Cole McKee, Kelsie Edie, and Adam Duby. “Activity-Attack Graphs for Intelligence-Informed Threat COA Development.” In 13th Annual Computing and Communication Workshop and Conference (CCWC), pp. 598-604. IEEE, [DOI: 10.1109/CCWC57344.2023.10099277](https://ieeexplore.ieee.org/document/10099277), 2023.
+- Cole McKee, Kelsie Edie, and Adam Duby. “Activity-Attack Graphs for Intelligence-Informed Threat COA Development.” In 13th Annual Computing and Communication Workshop and Conference (CCWC), pp. 598-604. IEEE, [DOI: 10.1109/CCWC57344.2023.10099277](https://ieeexplore.ieee.org/document/10099277), 2023.
 
 Nicholas Schultz and Adam Duby. “Towards A Framework for Preprocessing Analysis of Adversarial Windows Malware.” In 10th International Symposium on Digital Forensics and Security (ISDFS), pp. 1-6. IEEE, [DOI: 10.1109/ISDFS55398.2022.9800812](https://ieeexplore.ieee.org/document/9800812), 2022.
 
