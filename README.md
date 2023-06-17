@@ -1,5 +1,4 @@
-# publications
-Research Publications
+# Publications
 
 Kelsie Edie, Cole McKee, and Adam Duby. “Extending Threat Playbooks for Cyber Threat Intelligence: A Novel
 Approach for APT Attribution.” In 11th International Symposium on Digital Forensics and Security (ISDFS), pp.
