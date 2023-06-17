@@ -17,7 +17,7 @@ Family Classification.” In 2022 International Conference on Computer Communica
 
 Adam Duby, Teryl Taylor, Gedare Bloom, and Yanyan Zhuang. “Detecting and Classifying Self-Deleting Windows
 Malware Using Prefetch Files.” In 12th Annual Computing and Communication Workshop and Conference (CCWC),
-pp. 745-751. IEEE, 2022.
+pp. 745-751. IEEE, [DOI: 10.1109/CCWC54503.2022.9720874](https://ieeexplore.ieee.org/document/9720874), 2022.
 
 Adam Duby, Teryl Taylor, and Yanyan Zhuang. “Malware Family Classification via Residual Prefetch Artifacts.” In
 19th Annual Consumer Communications & Networking Conference (CCNC), pp. 256-259. IEEE, 2022.
